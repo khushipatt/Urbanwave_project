@@ -15,7 +15,7 @@ Built a mini social media platform in MongoDB for my college analytics assignmen
 - Data filtering, sorting, and CRUD operations
 
 # Project Report
-Full Urbanwave Report-(Urbanwave.pdf)
+[Full Urbanwave Report](Urbanwave.pdf)
 
 # Business Insights Generated
 - Top content creators by engagement (likes, views, shares)
